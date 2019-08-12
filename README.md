@@ -5,7 +5,7 @@ For this challenge, pretend that today is your first day of work at a (fictitiou
 This company makes money by offering "TODO lists as a service" to its customers.
 
 ## The Challenge
-The product team has approached you with their shiny new front-end application written in Angular 7, which you can find here:
+The product team has approached you with their shiny new front-end application written in Angular 7, which you can find here: https://github.com/JamesAtPropertyMe/AcmeTodoList
 
 They have asked you to implement the back-end services that stores the TODO lists in the database, so any users accessing the TODO lists service can see the same 
 list, considering this application could be used in high traffic and in a cluster environment.
